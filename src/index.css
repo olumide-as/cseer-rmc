@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+    font-family: "nasalisation";
+    src: url("../public/fonts/nasalization-rg.otf");
+  }
